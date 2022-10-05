@@ -21,13 +21,15 @@
 - tested two presets of Vite:
   - vanilla js preset ( by downloading from cdn the ESM version of VUE)
   - vue preset ( that allows using SFC)
+  - to run:  ``` npm i && npm start``` 
+  - more command in packge.json file or on vite website
 
 ## Some images:
 
 - home page:
 
-![Home Page](/main-page.png 'Home Page')
+![Home Page](/readme-img/main-page.png 'Home Page')
 
 - about me page:
 
-![About Me](/about.png 'About Me Page')
+![About Me](/readme-img/about.png 'About Me Page')
