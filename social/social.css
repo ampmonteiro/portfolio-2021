@@ -1,0 +1,51 @@
+/* 
+	Author: AMPM, 2021
+	File: social.css
+	Goal: styling social web page 
+*/
+
+@import '/shared/common.css'; /* common styles */
+
+@import '/shared/footer.css';
+
+article {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  gap: 3rem;
+}
+
+article section {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem;
+  flex-basis: 30rem;
+  height: 30rem;
+}
+
+.bi {
+  width: 10rem;
+}
+
+.bi.bi-linkedin {
+  color: var(--color-primary);
+}
+
+.bi.bi-github {
+  color: rgb(70, 69, 69);
+}
+
+.bi.bi-youtube {
+  color: red;
+}
+
+p {
+  font-size: 1.8rem;
+}
+
+p:last-of-type {
+  text-align: center;
+}

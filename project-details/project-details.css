@@ -1,0 +1,68 @@
+/* 
+	Author: AMPM, 2021
+	File: projects-details.css
+	Goal: styling project-details web page 
+*/
+@import '/shared/common.css'; /* common styles */
+
+@import '/shared/footer.css';
+
+article {
+  background-color: #fff;
+  padding: 2rem;
+}
+
+article.container {
+  margin: 0 1rem;
+}
+
+@media only screen and (min-width: 1200px) {
+  article.container {
+    margin: 0 auto;
+  }
+}
+
+img {
+  width: 100%;
+  margin: 4rem 1rem;
+}
+
+dl {
+  margin-left: 1.6rem;
+  font-size: 1.6rem;
+  line-height: 2;
+  margin-bottom: 5rem;
+}
+
+dt {
+  font-weight: 600;
+}
+
+dd {
+  margin-left: 1.6rem;
+  letter-spacing: 0.8px;
+}
+
+article section:first-of-type {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+article section:last-of-type {
+  display: flex;
+  place-content: center;
+}
+
+@media only screen and (min-width: 1024px) {
+  img {
+    width: 50%;
+  }
+
+  dd {
+    max-width: 43ch;
+  }
+
+  article section:first-of-type {
+    align-items: center;
+  }
+}

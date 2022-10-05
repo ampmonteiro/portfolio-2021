@@ -26,8 +26,8 @@
 
 - home page:
 
-![Home Page](/main-page.png 'Home Page')
+![Home Page](/readme-img/main-page.png 'Home Page')
 
 - about me page:
 
-![About Me](/about.png 'About Me Page')
+![About Me](/readme-img/about.png 'About Me Page')

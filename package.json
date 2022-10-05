@@ -1,0 +1,12 @@
+{
+  "name": "js-vue-vite",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "vite",
+    "b": "vite build",
+    "p": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "2.6.2"
+  }
+}

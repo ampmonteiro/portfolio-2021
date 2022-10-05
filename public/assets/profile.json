@@ -1,0 +1,698 @@
+{
+    "name": "Agostinho Monteiro",
+    "city": "Porto ( Portugal )",
+    "job": "Software Engineer | Web Developer ( Full-Stack )",
+    "exp": "5+",
+    "degree": "Masters in Informatics Engineering - Graphic Systems and Multimedia",
+    "school": "ISEP",
+    "schoolLink": "https://www.isep.ipp.pt/",
+    "work": [
+        {
+            "company": "Nomad Tech, CP - Portuguese Railways & Nomad Digital Joint Venture",
+            "title": "Software Engineer",
+            "period": "Nov 2021 - Present",
+            "tech": "HTML, CSS, JavaScript, PHP, SQL, JSON",
+            "frameworks": "TypeScript, RxJS, Angular (11 up to 13) , TypeScript, Twitter Bootstrap v4, PrimeNG, Fontawsome, SlimPHP (v3)",
+            "pkg": "NPM (for JavaScript), Composer (For PHP)",
+            "db": "MySQL",
+            "software": "VS Code, Insomnia, HeidiSQL",
+            "cvs": "Git + Bitbucket"
+        },
+        {
+            "company": "Inventore",
+            "title": "Web Developer",
+            "period": "Mar 2018 - Mar 2021 (3 years) ",
+            "tech": "HTML, CSS, JavaScript, PHP, SQL, JSON",
+            "frameworks": "TypeScript, RxJS, Angular (5+), Angular Material, Twitter Bootstrap v4 ",
+            "pkg": "NPM (for JavaScript), Composer (For PHP)",
+            "db": "MySQL",
+            "software": "VS Code, Postman, Insomnia, MySQL Workbench",
+            "cvs": "Git + Gitlab"
+        },
+        {
+            "company": "B-Simple",
+            "title": "Web Developer",
+            "period": "Mar 2017 - Aug 2017 (6 Months)",
+            "tech": "HTML, CSS, JavaScript, , C#, SQL (T-SQL), LINQ, JSON",
+            "frameworks": "TypeScript, RxJS, Angular (v2 / v4), Twitter Bootstrap v4, Microsoft ASP.NET Core Web API, EF Core (Entity Framework)",
+            "pkg": "NPM (for JavaScript), NuGet (For C#)",
+            "db": "MS SQL Server",
+            "cvs": "Microsoft TFS",
+            "software": "VS 2017, VSCode, MS SQL Management studio, Postman"
+        },
+        {
+            "company": "EQS Global",
+            "title": "Web Developer",
+            "period": "Apr 2016 - Sept 2016 (6 Months)",
+            "tech": "HTML, CSS, JavaScript, PHP, SQL, JSON, AJAX",
+            "frameworks": "jQuery, Twitter Bootstrap v3, JSPDF",
+            "pkg": "",
+            "db": "PostgreSQL",
+            "cvs": "",
+            "software": "Atom, PhpPgAdmin"
+        },
+        {
+            "company": "Improxy",
+            "title": "Web Developer ( Front-end )",
+            "period": "Jul 2013 - Jun 2014 ( 1 Year)",
+            "tech": "HTML, CSS, JavaScript, VB",
+            "frameworks": "ASP.NET, VB.NET, jQuery",
+            "pkg": "",
+            "db": "PostgreSQL",
+            "cvs": "Turtoise SVN",
+            "software": "VS 2012"
+        },
+        {
+            "company": "CimpleCare",
+            "title": "Web Developer",
+            "period": "Mar 2012 - Jul 2012 (5 Months)",
+            "tech": "HTML, CSS, JavaScript, AJAX, JSON, SQL (PL/SQL)",
+            "frameworks": "jQuery",
+            "pkg": "",
+            "db": "Oracle",
+            "cvs": "",
+            "software": "Oracle SQL Developer"
+        }
+    ],
+    "courses": [
+        {
+            "title": "APIs in PHP: from Basic to Advance",
+            "school": " Udemy",
+            "year": "2022"
+        },
+        {
+            "title": "Vue - Complete Vue Mastery (W/ VUEX, COMPOSITION API, ROUTER)",
+            "school": " Udemy",
+            "year": "2022"
+        },
+        {
+            "title": "The Ultimate Docker Course ",
+            "school": "CodeWithMosh",
+            "year": "2021"
+        },
+        {
+            "title": "Vue - The Complete Guide (W/ ROUTER, VUEX, COMPOSITION API) ",
+            "school": " Udemy",
+            "year": "2021"
+        },
+        {
+            "title": "Angular - The Complete Guide (2021 Edition) ",
+            "school": "Udemy",
+            "year": "2021"
+        },
+        {
+            "title": "CSS - the complete guide 2020 (Incl. FLEXBOX, GRID & SASS) ",
+            "school": "Udemy",
+            "year": "2020"
+        },
+        {
+            "title": "JavaScript - The complete guide 2020",
+            "school": "Udemy",
+            "year": "2019"
+        },
+        {
+            "title": "Multimedia Tech course - Vida Ativa Program",
+            "school": "IEFP / AEP",
+            "year": "2016"
+        },
+        {
+            "title": "Master in Informatics Engineering - Graphic Systems and Multimedia ",
+            "school": "ISEP",
+            "year": "2015"
+        },
+        {
+            "title": "HTML5 Course - 3ª Ed.",
+            "school": "ISGAYA",
+            "year": "2014"
+        },
+        {
+            "title": "Microsoft Silverlight 5 Course - 1ª Ed.",
+            "school": "ISGAYA",
+            "year": "2013"
+        },
+        {
+            "title": "Degree in Computer Science Engineering",
+            "school": "ISGAYA",
+            "year": "2012"
+        },
+        {
+            "title": "CET in Development of Multimedia Products",
+            "school": "ISMAI",
+            "year": "2008"
+        }
+    ],
+    "projs": [
+        {
+            "title": "Portfolio 2021",
+            "year": 2021,
+            "img": "portfolio2021.png",
+            "descr": " The goal of this projects is: <br> try new JS framework: Vue, v3.2 <br> - try new bundler tool: Vite, 2.9; <br> - Using vanilla and modern CSS: Grid, Flex, etc. ",
+            "techs": "HTML, CSS, JS, JSON",
+            "frameworks": "Vue, Vite,  Session Storage (Browser APi) ",
+            "see": "https://ampmonteiro-2021.netlify.app/"
+        },
+        {
+            "title": "Web Glossary-PHP",
+            "year": 2021,
+            "img": "web-glossary-php2021.png",
+            "descr": "This aims to relearning the fundaments of vanilla PHP.<br> learning modern and newest PHP (PHP 8). <br> Improved original project since chapter 4 until chapter 6. <br> more info in the repo. ",
+            "techs": "HTML, CSS, PHP",
+            "frameworks": "Bootstrap 5",
+            "see": "https://github.com/ampmonteiro/glossary-project-php"
+        },
+        {
+            "title": "ES2015 Native Browser Modules",
+            "year": 2018,
+            "img": "p2018.png",
+            "descr": "Showing how to use es2015+ Modules Loader in Browsers, without the need to use babel or traceur or SystemJS tool ",
+            "techs": "HTML, JavaScript",
+            "frameworks": "ES2015 Modules, DOM (Browser API)",
+            "see": "https://github.com/ampmonteiro/es2015-native-module-loader"
+        },
+        {
+            "title": "Portfolio: Angular Version",
+            "year": 2017,
+            "img": "p2017.png",
+            "descr": "Developed my portfolio / website using Angular (v4) for routing and to load data",
+            "techs": "JavaScript, CSS3, HTML5",
+            "frameworks": "Angular(v4), Typescript, RxJS, W3.css and font-awesome",
+            "see": "https://ampmonteiro.github.io/"
+        },
+        {
+            "title": "DP Creator",
+            "year": 2016,
+            "img": "dc16.png",
+            "descr": "DP, as Document Profile, aims to create a document that normally a RH campany always asked to the candidate fill with software like Microsoft word. And to study technology capable of generate PDF on client side. <br> With this project, the candidate dont need to open that kind of software (Word), only a browser, select the some fields and generate a PDF file to send to RH campany. <br> The generation of the PDF file is executed and created only on client side, which is the browser.",
+            "techs": "HTML5, CSS3, JavaScript",
+            "frameworks": "JSPDF, JSDF Plugin: AutoTable, jQuery, Twitter Bootstrap v3; ",
+            "see": "https://ampmonteiro.github.io/dp-creator/"
+        },
+        {
+            "title": "Masters Thesis Project",
+            "year": 2015,
+            "img": "thesis15.png",
+            "descr": "Study the currently image manipulation software. <br> Study and create a web app to run only <br> on client side (browser) to modify images.",
+            "techs": "HTML5, CSS3, JavaScript",
+            "frameworks": "Canvas API, Query,Twitter Bootstrap v3, CamanJS, HammerJS",
+            "see": "https://ampm-thesis-2015.surge.sh/"
+        }
+    ],
+    "skills": {
+        "techs": [
+            {
+                "name": "HTML",
+                "context": {
+                    "academic": "CET Course (ISMAI), Degree (ISPGAYA), HTML5 Course (ISPGAYA) and Master Degree (ISEP)",
+                    "professional": "Improxy, EQS Global, B-Simple and Inventore",
+                    "private": true
+                }
+            },
+            {
+                "name": "HTML5",
+                "context": {
+                    "academic": "HTML5 Course (ISPGAYA), Thesis of Master Degree (ISEP), Multimedia Tech (IEFP / AEP)",
+                    "professional": " B-Simple, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "CSS",
+                "context": {
+                    "academic": "CET Course (ISMAI), Degree (ISPGAYA), HTML5 Course (ISPGAYA), Thesis of Master Degree (ISEP), Multimedia Tech (IEFP / AEP)",
+                    "professional": "CimpleCare, Improxy, EQS Global, B-Simple, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "CSS3",
+                "context": {
+                    "academic": " HTML5 Course (ISPGAYA), Thesis of Master Degree (ISEP), Multimedia Tech (IEFP / AEP)",
+                    "professional": "B-Simple, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "JavaScript( ES5 )",
+                "context": {
+                    "academic": "HTML5 Course (ISPGAYA), Thesis of Master Degree (ISEP), Multimedia Tech (IEFP / AEP)",
+                    "professional": "CimpleCare, Improxy, EQS Global, B-Simple, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "JavaScript( ES2015+ )",
+                "context": {
+                    "academic": "",
+                    "professional": " B-Simple, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "PHP",
+                "context": {
+                    "academic": "CET Course (ISMAI), Degree (ISPGAYA)",
+                    "professional": "EQS Global, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "AJAX",
+                "context": {
+                    "academic": "Multimedia Tech (IEFP / AEP)",
+                    "professional": "CimpleCare, EQS Global, B-Simple, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "JSON",
+                "context": {
+                    "academic": "Multimedia Tech (IEFP / AEP)",
+                    "professional": "CimpleCare, EQS Global, B-Simple, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "XML",
+                "context": {
+                    "academic": "Degree (ISPGAYA)",
+                    "professional": "",
+                    "private": false
+                }
+            },
+            {
+                "name": "MySQL",
+                "context": {
+                    "academic": "CET Course (ISMAI), Degree (ISPGAYA), Master Degree (ISEP)",
+                    "professional": "Inventore, NomadTech",
+                    "private": false
+                }
+            },
+            {
+                "name": "T-SQL",
+                "context": {
+                    "academic": "Degree (ISPGAYA)",
+                    "professional": "B-Simple ",
+                    "private": false
+                }
+            },
+            {
+                "name": "C#",
+                "context": {
+                    "academic": "Silverlight 5 Course (ISPGAYA), Master Degree (ISEP)",
+                    "professional": "B-Simple",
+                    "private": false
+                }
+            },
+            {
+                "name": "PostgreSQL",
+                "context": {
+                    "academic": "",
+                    "professional": "EQS Global",
+                    "private": false
+                }
+            },
+            {
+                "name": "Oracle PL/SQL",
+                "context": {
+                    "academic": "",
+                    "professional": "CimpleCare",
+                    "private": false
+                }
+            },
+            {
+                "name": "JAVA",
+                "context": {
+                    "academic": " Degree (ISPGAYA), Master Degree (ISEP)",
+                    "professional": "",
+                    "private": false
+                }
+            }
+        ],
+        "frameworks": [
+            {
+                "name": "SlimPHP",
+                "context": {
+                    "academic": "",
+                    "professional": "NomadTech (V3)",
+                    "private": false
+                }
+            },
+            {
+                "name": "PrimeNG",
+                "context": {
+                    "academic": "",
+                    "professional": "NomadTech",
+                    "private": false
+                }
+            },
+            {
+                "name": "Vue 3",
+                "context": {
+                    "academic": "----",
+                    "professional": "----",
+                    "private": true
+                }
+            },
+            {
+                "name": "Canvas (Browser API)",
+                "context": {
+                    "academic": "Thesis for Master Degree (ISEP).",
+                    "professional": "Inventore",
+                    "private": false
+                }
+            },
+            {
+                "name": "DOM (Browser API)",
+                "context": {
+                    "academic": "HTML5 Course (ISPGAYA), Master Degree (ISEP).",
+                    "professional": "CimpleCare, Improxy, EQS Global",
+                    "private": true
+                }
+            },
+            {
+                "name": "ApexCharts (JS)",
+                "context": {
+                    "academic": "",
+                    "professional": "Inventore",
+                    "private": true
+                }
+            },
+            {
+                "name": "Angular Material",
+                "context": {
+                    "academic": "",
+                    "professional": "Inventore (v5 - v8) ",
+                    "private": true
+                }
+            },
+            {
+                "name": "Angular (2+)",
+                "context": {
+                    "academic": "",
+                    "professional": "B-Simple (v2 - v4), Inventore (v5 - v8), NomadTech (v11-v13)",
+                    "private": true
+                }
+            },
+            {
+                "name": "RxJS",
+                "context": {
+                    "academic": "",
+                    "professional": "B-Simple, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "TypeScript",
+                "context": {
+                    "academic": "",
+                    "professional": "B-Simple, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "MomentJS",
+                "context": {
+                    "academic": "",
+                    "professional": "B-Simple, Inventore",
+                    "private": false
+                }
+            },
+            {
+                "name": "W3.CSS",
+                "context": {
+                    "academic": "",
+                    "professional": "",
+                    "private": true
+                }
+            },
+            {
+                "name": "Animate.CSS",
+                "context": {
+                    "academic": "",
+                    "professional": "Inventore",
+                    "private": false
+                }
+            },
+            {
+                "name": "Twitter Bootstrap v4",
+                "context": {
+                    "academic": "",
+                    "professional": "B-Simple and Inventore, NomadTech ",
+                    "private": false
+                }
+            },
+            {
+                "name": "Twitter Bootstrap v3",
+                "context": {
+                    "academic": "",
+                    "professional": "EQS Gobal",
+                    "private": true
+                }
+            },
+            {
+                "name": "PDFMake (JS)",
+                "context": {
+                    "academic": "",
+                    "professional": "EQS Global and Inventore",
+                    "private": false
+                }
+            },
+            {
+                "name": "JSPDF",
+                "context": {
+                    "academic": "",
+                    "professional": "EQS Global",
+                    "private": true
+                }
+            },
+            {
+                "name": "jQuery",
+                "context": {
+                    "academic": "HTML5 Course (ISPGAYA) and Master Degree (ISEP).",
+                    "professional": "CimpleCare, Improxy, EQS Global",
+                    "private": true
+                }
+            },
+            {
+                "name": "EF Core",
+                "context": {
+                    "academic": "",
+                    "professional": "B-SIMPLE",
+                    "private": false
+                }
+            },
+            {
+                "name": "ASP.NET Core Web API",
+                "context": {
+                    "academic": "",
+                    "professional": "B-SIMPLE",
+                    "private": false
+                }
+            },
+            {
+                "name": "ASP.NET",
+                "context": {
+                    "academic": "",
+                    "professional": "Improxy",
+                    "private": false
+                }
+            },
+            {
+                "name": "VB.NET",
+                "context": {
+                    "academic": "",
+                    "professional": "Improxy",
+                    "private": false
+                }
+            },
+            {
+                "name": "Silverlight 5",
+                "context": {
+                    "academic": "Silverlight 5 Course (ISPGAYA)",
+                    "professional": "",
+                    "private": false
+                }
+            },
+            {
+                "name": "PrimeFaces UI",
+                "context": {
+                    "academic": "Degree (ISPGAYA)",
+                    "professional": "",
+                    "private": false
+                }
+            },
+            {
+                "name": "JSF (Java Server Faces)",
+                "context": {
+                    "academic": "Degree (ISPGAYA)",
+                    "professional": "",
+                    "private": false
+                }
+            }
+        ],
+        "pkgs": [
+            {
+                "name": "NPM (JS)",
+                "context": {
+                    "academic": "Multimedia Tech (IEFP / AEP)",
+                    "professional": "B-Simple, Inventore",
+                    "private": true
+                }
+            },
+            {
+                "name": "Composer (PHP)",
+                "context": {
+                    "academic": "",
+                    "professional": "Inventore",
+                    "private": false
+                }
+            },
+            {
+                "name": "NuGet (C#) ",
+                "context": {
+                    "academic": "",
+                    "professional": "B-Simple",
+                    "private": false
+                }
+            }
+        ],
+        "soft": [
+            {
+                "name": "HeidiSQL",
+                "context": {
+                    "academic": "",
+                    "professional": "NomadTech",
+                    "private": false
+                }
+            },
+            {
+                "name": "Insomnia",
+                "context": {
+                    "academic": "",
+                    "professional": "Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "Postman",
+                "context": {
+                    "academic": "",
+                    "professional": " B-Simple, Inventore",
+                    "private": false
+                }
+            },
+            {
+                "name": "Visual Studio Code",
+                "context": {
+                    "academic": "",
+                    "professional": "B-Simple, Inventore, NomadTech",
+                    "private": true
+                }
+            },
+            {
+                "name": "Microsoft Visual Studio",
+                "context": {
+                    "academic": "ISEP",
+                    "professional": "Improxy, B-Simple",
+                    "private": false
+                }
+            },
+            {
+                "name": "Microsoft Sql Server Management Studio",
+                "context": {
+                    "academic": "Degree (ISPGAYA)",
+                    "professional": "B-Simple, Improxy",
+                    "private": false
+                }
+            },
+            {
+                "name": "MySQL Workbench ",
+                "context": {
+                    "academic": "Degree (ISPGAYA, Master Degree (ISEP)",
+                    "professional": "Inventore",
+                    "private": false
+                }
+            },
+            {
+                "name": "PHP MyAdmin",
+                "context": {
+                    "academic": "CET Course (ISMAI), Degree (ISPGAYA) and Master Degree (ISEP)",
+                    "professional": "",
+                    "private": false
+                }
+            },
+            {
+                "name": "Atom",
+                "context": {
+                    "academic": "Master Degree (ISEP)",
+                    "professional": "EQS Global",
+                    "private": true
+                }
+            },
+            {
+                "name": "NetBeans",
+                "context": {
+                    "academic": "Degree (ISPGAYA)",
+                    "professional": "Inventore ",
+                    "private": false
+                }
+            },
+            {
+                "name": "Eclipse",
+                "context": {
+                    "academic": "Master Degree (ISPGAYA)",
+                    "professional": "",
+                    "private": false
+                }
+            },
+            {
+                "name": "Blender3D",
+                "context": {
+                    "academic": "Master Degree (ISPGAYA)",
+                    "professional": "",
+                    "private": true
+                }
+            },
+            {
+                "name": "Adobe DreamWeaver ",
+                "context": {
+                    "academic": "CET Course (ISMAI)",
+                    "professional": "",
+                    "private": false
+                }
+            },
+            {
+                "name": "Adobe Premiere",
+                "context": {
+                    "academic": "CET Course (ISMAI) and Multimedia Tech (IEFP / AEP)",
+                    "professional": "",
+                    "private": false
+                }
+            },
+            {
+                "name": "Adobe After Effects",
+                "context": {
+                    "academic": "CET Course (ISMAI) and Multimedia Tech (IEFP / AEP)",
+                    "professional": "",
+                    "private": false
+                }
+            },
+            {
+                "name": "Adobe Illustrator",
+                "context": {
+                    "academic": "CET Course (ISMAI) and Multimedia Tech (IEFP / AEP)",
+                    "professional": "",
+                    "private": false
+                }
+            },
+            {
+                "name": "Adobe Photoshop",
+                "context": {
+                    "academic": "CET Course (ISMAI) and Multimedia Tech (IEFP / AEP)",
+                    "professional": "",
+                    "private": false
+                }
+            }
+        ]
+    }
+}

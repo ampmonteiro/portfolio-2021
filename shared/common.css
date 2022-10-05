@@ -1,0 +1,357 @@
+/* 
+	Author: AMPM, 2021
+	File: common.css
+	Goal: same / shared css to other files
+*/
+
+/* carrega font localmente */
+@font-face {
+  font-family: 'Roboto';
+  src: url('/assets/fonts/Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+/* ==== colors ===  */
+:root {
+  --color-primary: #004b8d;
+  --color-primary-light: #2398ff;
+  --color-secundary: #0073d8;
+  --color-light: #e9f5ff;
+  --color-dark: #003564;
+  --overlay: #2398ffbe;
+  --font-family-sans-serif: 'Roboto', sans-serif;
+}
+
+/*  Resets */
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /*  1rem => 10px*/
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-family-sans-serif) !important;
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1 {
+  font-size: 4.9rem;
+}
+
+h2 {
+  font-size: 3.8rem;
+}
+
+h3 {
+  font-size: 2.4rem;
+}
+
+p,
+a {
+  font-size: 1.6rem;
+}
+
+h2,
+h3 {
+  font-weight: 500;
+}
+
+@media only screen and (min-width: 600px) {
+  .big-title {
+    font-size: 8rem;
+    color: var(--color-primary);
+  }
+
+  h1 {
+    font-size: 6.4rem;
+  }
+
+  h2 {
+    font-size: 4.8rem;
+  }
+
+  h3 {
+    font-size: 3.2rem;
+  }
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+/*============ Main layout =================*/
+/* HEADER */
+#main-header {
+  background-color: var(--color-dark);
+  width: 100%;
+  min-height: 5.5rem;
+}
+
+#main-header section {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  min-height: 5.5rem;
+}
+
+#main-header nav {
+  display: none;
+}
+
+.logo {
+  color: var(--color-primary-light);
+  font-size: 2rem;
+  font-weight: 900;
+  padding: 2rem 0;
+}
+
+#main-header nav a {
+  display: inline-block;
+  padding: 2rem;
+  text-align: center;
+  font-size: 1.2rem;
+  color: #ffffffa1;
+}
+
+/* Main content */
+#main-content {
+  background-color: var(--color-primary-light);
+  padding: 4rem 0;
+}
+
+#main-content h1 {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  margin-left: 1rem;
+}
+
+@media only screen and (min-width: 630px) {
+  body {
+    display: grid;
+    grid-template-rows: 1fr auto;
+  }
+
+  #main-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+  .logo {
+    padding: unset;
+  }
+
+  #main-header nav {
+    display: block;
+  }
+
+  #main-header nav a:active,
+  #main-header nav a:hover,
+  #main-header nav .active {
+    background-color: var(--color-primary-light);
+    display: inline-block;
+    color: #000;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  #main-content h1 {
+    margin-left: auto;
+  }
+
+  #main-header section {
+    justify-content: space-between;
+  }
+}
+
+/* ===== Utils ======== */
+
+.big-title {
+  font-size: 6.4rem;
+  font-weight: 900;
+  color: var(--color-primary);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Btn */
+.btn {
+  font-weight: 400;
+  display: inline-block;
+  padding: 1.2rem 3rem;
+  font-size: 1.8rem;
+  border: 1px solid;
+}
+
+.btn-primary {
+  background-color: var(--color-primary);
+  color: #ffffff;
+}
+
+.btn-primary:hover {
+  background-color: #004b8db8;
+}
+
+.btn-outline {
+  color: var(--color-primary-light);
+  border: 1px solid var(--color-primary-light);
+}
+
+.btn-outline:hover {
+  background-color: var(--color-primary-light);
+  color: #ffffff;
+}
+
+/* ====== Mobile nav ===========*/
+
+/* Define the btn menu  */
+#btn-menu {
+  position: fixed;
+  bottom: 15vh;
+  right: 1rem;
+  cursor: pointer;
+  background-color: #0164bc;
+  color: #fff;
+  padding: 2rem;
+  z-index: 2;
+  border-radius: 1rem;
+  border-color: transparent;
+}
+
+#btn-menu .strippes-menu {
+  width: 3rem;
+  height: 0.3rem;
+  background-color: #fff;
+  border-radius: 1rem;
+}
+
+#btn-menu .strippes-menu::before,
+#btn-menu .strippes-menu::after {
+  content: '';
+  position: absolute;
+  width: 3rem;
+  height: 0.3rem;
+  background-color: #fff;
+  border-radius: 1rem;
+  right: 2rem;
+}
+
+#btn-menu .strippes-menu::before {
+  top: 1rem;
+}
+
+#btn-menu .strippes-menu::after {
+  bottom: 1rem;
+}
+
+#btn-menu .close-menu {
+  width: 3rem;
+  height: 0.6rem;
+}
+
+#btn-menu .close-menu::before,
+#btn-menu .close-menu::after {
+  content: '';
+  position: absolute;
+  width: 3rem;
+  height: 0.6rem;
+  background-color: #fff;
+  border-radius: 1rem;
+  right: 20px;
+}
+
+#btn-menu .close-menu::before {
+  transform: rotate(45deg);
+}
+
+#btn-menu .close-menu::after {
+  transform: rotate(-45deg);
+}
+
+/* define menu */
+#mobile-menu {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+  z-index: 1;
+  background-color: var(--color-dark);
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+}
+
+#mobile-menu a {
+  color: #ffffffa1;
+}
+
+#mobile-menu a:hover,
+#mobile-menu a.active {
+  color: var(--color-primary-light);
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+/* 
+
+using vue instead for showing menu
+
+#toogle {
+  display: none;
+}
+
+input:checked ~ #mobile-menu {
+  display: flex;
+} 
+
+*/
+
+/* btn up */
+
+#btn-up {
+  display: none;
+  position: fixed;
+  bottom: 2rem;
+  right: 14rem;
+  background-color: #0164bc;
+  color: #fff;
+  padding: 1.2rem 1.4rem;
+  z-index: 1;
+}
+
+#btn-up svg {
+  width: 20px;
+}
+
+@media only screen and (min-width: 630px) {
+  #btn-menu {
+    display: none;
+  }
+
+  #btn-up {
+    display: inline-block;
+  }
+}
