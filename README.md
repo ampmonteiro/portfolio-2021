@@ -1,8 +1,12 @@
-### Portofolio 2021
+# Portfolio 2021
 
 ## Link
 
 [Let see](https://ampmonteiro-2021.netlify.app/)
+
+## About the code:
+
+- selected branch with respetive preset of vite
 
 ## goals
 
@@ -18,7 +22,7 @@
   - vanilla js preset ( by downloading from cdn the ESM version of VUE)
   - vue preset ( that allows using SFC)
 
-## Images of the project:
+## Some images:
 
 - home page:
 
