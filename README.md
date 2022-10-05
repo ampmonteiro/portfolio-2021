@@ -12,7 +12,7 @@
 
 - new portfolio
 - try new JS framework: Vue, v3.2
-- try new bundler tool: Vite, 2.9
+- try new bundler tool: Vite, 2.6
 - Using vanilla and modern CSS: Grid, Flex, etc.
 - try netlify to host the website
 
