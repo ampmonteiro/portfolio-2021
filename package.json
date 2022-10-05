@@ -1,0 +1,16 @@
+{
+  "name": "vite-vue-portfolio",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "vite",
+    "b": "vite build",
+    "p": "vite preview"
+  },
+  "dependencies": {
+    "vue": "3.2.19"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  }
+}
