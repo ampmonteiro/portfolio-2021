@@ -23,7 +23,8 @@ body {
 }
 
 #main-content {
-  padding: 2rem 0;
+  place-content: center;
+  padding: unset;
 }
 
 article {
