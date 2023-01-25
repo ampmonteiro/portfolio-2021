@@ -8,7 +8,7 @@ import AppFooter from '../components/AppFooter.vue';
       <h1 class="big-title">Agostinho Monteiro</h1>
       <section>
         <h3>Software Engineer | Web Developer</h3>
-        <p>5+ years of professional experience</p>
+        <p>6+ years of professional experience</p>
       </section>
       <footer>
         <a class="btn btn-primary" href="/about-me/"
