@@ -2,7 +2,7 @@
     "name": "Agostinho Monteiro",
     "city": "Porto ( Portugal )",
     "job": "Software Engineer | Web Developer ( Full-Stack )",
-    "exp": "5+",
+    "exp": "6+",
     "degree": "Masters in Informatics Engineering - Graphic Systems and Multimedia",
     "school": "ISEP",
     "schoolLink": "https://www.isep.ipp.pt/",
@@ -10,9 +10,9 @@
         {
             "company": "Nomad Tech, CP - Portuguese Railways & Nomad Digital Joint Venture",
             "title": "Software Engineer",
-            "period": "Nov 2021 - Present",
+            "period": "Nov 2021 - Nov 2022 (1 year)",
             "tech": "HTML, CSS, JavaScript, PHP, SQL, JSON",
-            "frameworks": "TypeScript, RxJS, Angular (11 up to 13) , TypeScript, Twitter Bootstrap v4, PrimeNG, Fontawsome, SlimPHP (v3)",
+            "frameworks": "TypeScript, RxJS, Angular (11 up to 13), Twitter Bootstrap v4, PrimeNG, Fontawsome, SlimPHP (v3)",
             "pkg": "NPM (for JavaScript), Composer (For PHP)",
             "db": "MySQL",
             "software": "VS Code, Insomnia, HeidiSQL",
@@ -23,7 +23,7 @@
             "title": "Web Developer",
             "period": "Mar 2018 - Mar 2021 (3 years) ",
             "tech": "HTML, CSS, JavaScript, PHP, SQL, JSON",
-            "frameworks": "TypeScript, RxJS, Angular (5+), Angular Material, Twitter Bootstrap v4 ",
+            "frameworks": "Angular (5 up to 8) , TypeScript, RxJS, Twitter Bootstrap v4, Angular Material, MomentJS, FlightPHP",
             "pkg": "NPM (for JavaScript), Composer (For PHP)",
             "db": "MySQL",
             "software": "VS Code, Postman, Insomnia, MySQL Workbench",
@@ -75,6 +75,21 @@
         }
     ],
     "courses": [
+        {
+            "title": "JavaScript Unit Testing - The Practical Guide",
+            "school": " Udemy",
+            "year": "2022"
+        },
+        {
+            "title": "Composer - The Ultimate Guide for PHP Dependency Management",
+            "school": " Udemy",
+            "year": "2022"
+        },
+        {
+            "title": "CodeIgniter 4: Build a Complete Web Application from Scratch",
+            "school": " Udemy",
+            "year": "2022"
+        },
         {
             "title": "APIs in PHP: from Basic to Advance",
             "school": " Udemy",
