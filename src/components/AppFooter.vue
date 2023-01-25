@@ -1,6 +1,6 @@
 <script setup>
 const year = new Date();
-const updated = '10/2022';
+const updated = '01/2023';
 </script>
 
 <template>
