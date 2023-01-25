@@ -1,6 +1,6 @@
 const setup = () => {
   const year = new Date();
-  const updated = '10/2022';
+  const updated = '01/2023';
 
   return { year, updated };
 };
@@ -8,7 +8,7 @@ const setup = () => {
 const template = /* html */ `
 
 <section class="container">
-    <p> &copy; {{year.getFullYear()}} | Developed by: 
+    <p> &copy; 2021 - {{year.getFullYear()}} | Developed by: 
         <span> Agostinho Monteiro </span>
     </p>
     <p>Last update: {{updated}}</p>
