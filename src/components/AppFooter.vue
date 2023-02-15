@@ -7,7 +7,7 @@ const updated = '01/2023';
   <footer id="main-footer">
     <section class="container">
       <p>
-        &copy; {{ year.getFullYear() }} | Developed by:
+        &copy; 2021 - {{ year.getFullYear() }} | Developed by:
         <span> Agostinho Monteiro </span>
       </p>
       <p>Last update: {{ updated }}</p>
@@ -55,7 +55,7 @@ const updated = '01/2023';
   flex-wrap: wrap;
   height: 100%;
   padding: 2rem;
-  gap: 1rem 14rem;
+  gap: 1rem 13rem;
 }
 
 #main-footer a {
