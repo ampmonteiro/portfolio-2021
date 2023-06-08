@@ -58,7 +58,7 @@
             "tech": "HTML, CSS, JavaScript, VB",
             "frameworks": "ASP.NET, VB.NET, jQuery",
             "pkg": "",
-            "db": "PostgreSQL",
+            "db": "-",
             "cvs": "Turtoise SVN",
             "software": "VS 2012"
         },
@@ -75,6 +75,16 @@
         }
     ],
     "courses": [
+        {
+            "title": "Let's Learn Laravel: A Guided Path For Beginners",
+            "school": " Udemy",
+            "year": "2023"
+        },
+        {
+            "title": "Symfony 6 Framework Hands-On 2023",
+            "school": " Udemy",
+            "year": "2023"
+        },
         {
             "title": "JavaScript Unit Testing - The Practical Guide",
             "school": " Udemy",
