@@ -17,8 +17,8 @@ const template = /* html */ `
         <dd>{{ item.pkg }}</dd>
         <dt>Database:</dt>
         <dd> {{ item.db}}</dd>
-        <dt>CVS:</dt>
-        <dd>{{ item.cvs}}</dd>
+        <dt>VCS:</dt>
+        <dd>{{ item.vcs}}</dd>
         <dt>Software:</dt>
         <dd>{{ item.software }}</dd>
     </dl>

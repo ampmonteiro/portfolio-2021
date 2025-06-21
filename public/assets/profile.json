@@ -16,7 +16,7 @@
             "pkg": "NPM (for JavaScript), Composer (For PHP)",
             "db": "PostgreSQL",
             "software": "VS Code, Docker, HttPie(testing API), Antares (a DB GUI)",
-            "cvs": "Git + GitLab"
+            "vcs": "Git + GitLab"
         },
         {
             "company": "Nomad Tech, CP - Portuguese Railways & Nomad Digital Joint Venture",
@@ -27,7 +27,7 @@
             "pkg": "NPM (for JavaScript), Composer (For PHP)",
             "db": "MySQL",
             "software": "VS Code, Insomnia, HeidiSQL",
-            "cvs": "Git + Bitbucket"
+            "vcs": "Git + Bitbucket"
         },
         {
             "company": "Inventore",
@@ -38,7 +38,7 @@
             "pkg": "NPM (for JavaScript), Composer (For PHP)",
             "db": "MySQL",
             "software": "VS Code, Postman, Insomnia, MySQL Workbench",
-            "cvs": "Git + GitLab"
+            "vcs": "Git + GitLab"
         },
         {
             "company": "B-Simple",
@@ -48,7 +48,7 @@
             "frameworks": "TypeScript, RxJS, Angular (v2 / v4), Twitter Bootstrap v4, Microsoft ASP.NET Core Web API, EF Core (Entity Framework)",
             "pkg": "NPM (for JavaScript), NuGet (For C#)",
             "db": "MS SQL Server",
-            "cvs": "Microsoft TFS",
+            "vcs": "Microsoft TFS",
             "software": "VS 2017, VSCode, MS SQL Management studio, Postman"
         },
         {
@@ -59,7 +59,7 @@
             "frameworks": "jQuery, Twitter Bootstrap v3, JSPDF",
             "pkg": "",
             "db": "PostgreSQL",
-            "cvs": "",
+            "vcs": "",
             "software": "Atom, PhpPgAdmin"
         },
         {
@@ -70,7 +70,7 @@
             "frameworks": "ASP.NET, VB.NET, jQuery",
             "pkg": "",
             "db": "-",
-            "cvs": "Turtoise SVN",
+            "vcs": "Turtoise SVN",
             "software": "VS 2012"
         },
         {
@@ -81,7 +81,7 @@
             "frameworks": "jQuery",
             "pkg": "",
             "db": "Oracle",
-            "cvs": "",
+            "vcs": "",
             "software": "Oracle SQL Developer"
         }
     ],
