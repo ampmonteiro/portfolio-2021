@@ -2,16 +2,27 @@
     "name": "Agostinho Monteiro",
     "city": "Porto ( Portugal )",
     "job": "Software Engineer | Web Developer ( Full-Stack )",
-    "exp": "6+",
+    "exp": "8+",
     "degree": "Masters in Informatics Engineering - Graphic Systems and Multimedia",
     "school": "ISEP",
     "schoolLink": "https://www.isep.ipp.pt/",
     "work": [
         {
+            "company": "Radio Popular",
+            "title": "Web Developer",
+            "period": "Jul 2023 - Current",
+            "tech": "HTML, CSS, JavaScript, PHP, SQL, JSON, AJAX",
+            "frameworks": "Twitter Bootstrap v5, FontAwesome, CodeIgniter, Laravel, jQuery, SASS",
+            "pkg": "NPM (for JavaScript), Composer (For PHP)",
+            "db": "PostgreSQL",
+            "software": "VS Code, Docker, HttPie(testing API), Antares (a DB GUI)",
+            "cvs": "Git + GitLab"
+        },
+        {
             "company": "Nomad Tech, CP - Portuguese Railways & Nomad Digital Joint Venture",
             "title": "Software Engineer",
             "period": "Nov 2021 - Nov 2022 (1 year)",
-            "tech": "HTML, CSS, JavaScript, PHP, SQL, JSON",
+            "tech": "HTML, CSS, JavaScript, PHP, SQL, JSON, AJAX",
             "frameworks": "TypeScript, RxJS, Angular (11 up to 13), Twitter Bootstrap v4, PrimeNG, Fontawsome, SlimPHP (v3)",
             "pkg": "NPM (for JavaScript), Composer (For PHP)",
             "db": "MySQL",
@@ -22,12 +33,12 @@
             "company": "Inventore",
             "title": "Web Developer",
             "period": "Mar 2018 - Mar 2021 (3 years) ",
-            "tech": "HTML, CSS, JavaScript, PHP, SQL, JSON",
+            "tech": "HTML, CSS, JavaScript, PHP, SQL, JSON, AJAX",
             "frameworks": "Angular (5 up to 8) , TypeScript, RxJS, Twitter Bootstrap v4, Angular Material, MomentJS, FlightPHP",
             "pkg": "NPM (for JavaScript), Composer (For PHP)",
             "db": "MySQL",
             "software": "VS Code, Postman, Insomnia, MySQL Workbench",
-            "cvs": "Git + Gitlab"
+            "cvs": "Git + GitLab"
         },
         {
             "company": "B-Simple",
@@ -225,6 +236,14 @@
     "skills": {
         "techs": [
             {
+                "name": "Docker",
+                "context": {
+                    "academic": "",
+                    "professional": "Radio Popular",
+                    "private": true
+                }
+            },
+            {
                 "name": "HTML",
                 "context": {
                     "academic": "CET Course (ISMAI), Degree (ISPGAYA), HTML5 Course (ISPGAYA) and Master Degree (ISEP)",
@@ -332,7 +351,7 @@
                 "name": "PostgreSQL",
                 "context": {
                     "academic": "",
-                    "professional": "EQS Global",
+                    "professional": "EQS Global, Radio Popular",
                     "private": false
                 }
             },
@@ -354,6 +373,22 @@
             }
         ],
         "frameworks": [
+            {
+                "name": "Laravel",
+                "context": {
+                    "academic": "",
+                    "professional": "Radio Popular",
+                    "private": true
+                }
+            },
+            {
+                "name": "CodeIgniter",
+                "context": {
+                    "academic": "",
+                    "professional": "Radio Popular",
+                    "private": true
+                }
+            },
             {
                 "name": "SlimPHP",
                 "context": {
