@@ -1,6 +1,6 @@
 const setup = () => {
   const year = new Date();
-  const updated = '06/2025';
+  const updated = '10/2025';
 
   return { year, updated };
 };
